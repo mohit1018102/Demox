@@ -8,3 +8,8 @@ int main()
         //function call
        //create add, multiply, subtract, divide
 }
+
+int add(int a, int b)
+{
+	return a+b;
+}
