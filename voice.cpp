@@ -7,3 +7,8 @@ int main()
      // function call;
      // create voice- cow, dog, cat, gun
 }
+
+void dog()
+{
+     cout<<"boww boww";
+}
